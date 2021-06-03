@@ -27,3 +27,10 @@ Tabela de conteúdos
    * [Tecnologias](#tecnologias)
 <!--te-->
 
+#Sobre 
+
+Sobre o projeto
+
+#tecnologias
+
+tecnologias utilizadas
